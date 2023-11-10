@@ -41,11 +41,3 @@ This project is a simple web application that provides user authentication with 
    - The application uses secure password hashing to ensure the safety of user credentials.
 
 
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
-
-Feel free to tailor the README to match the specifics of your project or include additional information as needed. If you have any questions or need further assistance, let me know!
